@@ -1,6 +1,6 @@
 # import the necessary packages
 from threading import Thread
-import pingtimer
+
 
 class pingtimer:
     def __init__(self, src=0, name="timer"):
